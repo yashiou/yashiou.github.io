@@ -11292,3 +11292,11 @@ textarea.form-control-lg {
   background-position: center;
   background-size: cover;
 }
+.name-background {
+  background-color: #0090fe;
+  width: 180px;
+}
+.p-background{
+  background-color:#0090fe;
+  width:500px;
+}
